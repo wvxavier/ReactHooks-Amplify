@@ -1,5 +1,7 @@
-## Use amplify init
+## Use `amplify init`
 Create your enviroment using amplify init is required to run this application
+##Import the file /schema.graphql to build yout GraphQL Schema
+
 
 ## Available Scripts
 
