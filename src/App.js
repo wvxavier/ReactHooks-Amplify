@@ -54,7 +54,7 @@ const App = () => {
         {/* Header */}
         <Row>
           <Col>
-            <h1>Aewsome To do list</h1>
+            <h1>Awesome To do list</h1>
              <br/>
           </Col>
         </Row>
